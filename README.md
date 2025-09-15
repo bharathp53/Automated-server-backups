@@ -310,11 +310,4 @@ get -r backups local-backups
    script more than once a day. Currently the file will be overwritten.
  - What would this script look like for a windows server backup?
 
-## Links:
 
- - Commands for vim editor https://kb.iu.edu/d/afdc
- - Using mysqldump https://mariadb.com/kb/en/library/mysqldump/
- - Crontabs https://www.computerhope.com/unix/ucrontab.htm
- - Crontab examples https://tecadmin.net/crontab-in-linux-with-20-examples-of-cron-schedule/  
-
-![zauberware technologies](https://avatars3.githubusercontent.com/u/1753330?s=200&v=4)
